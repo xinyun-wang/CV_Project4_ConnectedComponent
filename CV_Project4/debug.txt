@@ -1,0 +1,9 @@
+entering connected4 method 
+After connected4 pass1, newLabel = 54
+After connected4 pass2, newLabel = 54
+In connected4, after manage EQAry, trueNumCC = 24
+entering connectPass3 method 
+leaving connectPass3 method 
+Leaving connected4 method 
+entering drawBoxes method
+leaving drawBoxes method
