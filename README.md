@@ -3,7 +3,7 @@ This program comprehensively handles the identification and labeling of connecte
 
 sample Input:
 24 31 0 1
-0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0\n
 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0
 0 0 0 0 0 0 0 1 0 1 0 0 0 0 1 1 1 0 0 0 0 1 0 0 0 1 0 1 0 0 0
 0 1 1 0 0 0 0 0 1 1 1 0 0 1 1 1 1 1 0 0 0 0 0 0 0 1 1 1 0 0 0
